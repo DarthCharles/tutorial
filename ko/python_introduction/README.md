@@ -461,7 +461,7 @@ Boolean도 변수로 사용할 수도 있습니다! 다음을 보세요. :
 
 앞서 우리는 [코드 편집기][2] 섹션에서 어떤 코드 편집기를 사용할지 정했었습니다. 이제 편집기를 실행해서 새 코드를 작성하여 새 파일로 저장합니다:
 
- [2]: ../code_editor/README.md
+ [2]: ./../code_editor/README.md
 
 ```python
     print('Hello, Django girls!')

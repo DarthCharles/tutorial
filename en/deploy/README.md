@@ -18,7 +18,7 @@ Git is a "version control system" used by a lot of programmers. This software ca
 
 > **Note** If you already did the Installation steps, no need to do this again - you can skip to the next section and start creating your Git repository.
 
-{% include "deploy/install_git.md" %}
+{% include "./install_git.md" %}
 
 ## Starting our Git repository
 
@@ -119,7 +119,7 @@ Your code is now on GitHub. Go and check it out!  You'll find it's in fine compa
 
 > **Note** You might have already created a PythonAnywhere account earlier during the install steps - if so, no need to do it again.
 
-{% include "deploy/signup_pythonanywhere.md" %}
+{% include "./signup_pythonanywhere.md" %}
 
 
 ## Pulling our code down on PythonAnywhere

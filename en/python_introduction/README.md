@@ -423,7 +423,7 @@ To exit from the Python interpreter that we've been using, simply type the ```ex
 
 This will put you back into the command prompt.
 
-Earlier, we picked out a code editor from the [code editor](../code_editor/README.md) section. We'll need to open the editor now and write some code into a new file:
+Earlier, we picked out a code editor from the [code editor](./../code_editor/README.md) section. We'll need to open the editor now and write some code into a new file:
 
 ```python
 print('Hello, Django girls!')
